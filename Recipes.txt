@@ -5,5 +5,7 @@ pasta
 pizza
 
 burger
+ litchi
+kheer
 
 thank you
